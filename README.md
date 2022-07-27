@@ -5,4 +5,4 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturd
 
 
 # Installation
-![Lorem Picsum Gorsel](https://github.com/Kodluyoruz/taskforce/blob/main/git/odev1/figures/github.png)
+![Lorem Picsum Gorsel](https://cdn.discordapp.com/attachments/986932700524998707/1001791604790677527/Ekran_Alnts.PNG)
